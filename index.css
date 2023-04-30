@@ -1,7 +1,18 @@
-.index-background-class {
+body {
     background-image: url("images/back_image.png");
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    background-position: center;
+    background-size: auto auto;
+}
+
+h1 {
+    display: block;
     color: white;
+    position: relative !important;
+    font-size: 80px !important;
+    line-height: 80px !important;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
