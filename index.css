@@ -1,0 +1,7 @@
+.index-background-class {
+    background-image: url("images/back_image.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: white;
+}
