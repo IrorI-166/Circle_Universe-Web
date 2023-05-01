@@ -24,3 +24,7 @@ h1 {
 .div_class2 {
     padding: 50px;
 }
+
+.button_styled {
+    line-height: 2.5;
+}
