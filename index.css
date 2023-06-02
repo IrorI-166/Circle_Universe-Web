@@ -17,6 +17,14 @@ h1 {
     margin-inline-end: 0px;
 }
 
+h2 {
+    display: block;
+    color: aqua;
+    position: relative !important;
+    font-size: 40px !important;
+    margin-block-start: 0.67em;
+}
+
 .div_class1 {
     padding: 10px;
 }
